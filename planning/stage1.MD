@@ -8,5 +8,6 @@ We need to plan stage 1 of this project. Stage 1 involves the following activiti
 1. Tile the walls
 1. Install the counter tops
 1. Install the oven
+1. Install automatic cat feeder
 1. Install the fridge
 
